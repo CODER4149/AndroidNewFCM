@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054576969292",
+    "project_id": "testfcmtoken-f281f",
+    "storage_bucket": "testfcmtoken-f281f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054576969292:android:24fcb3cb3882eb1b9216e9",
+        "android_client_info": {
+          "package_name": "com.test.androidnewfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBri1RYgi3KEzy-O7HyfWWDxrdq0_Rwz0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
